@@ -20,7 +20,7 @@ pip install flask geopandas shapely scipy numpy pyproj
 python app.py
 ```
 
-Open http://localhost:5000
+Open your browser at http://localhost:5000
 
 ## Provinces Supported
 
